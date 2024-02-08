@@ -52,7 +52,7 @@ function Currency() {
     position: "relative",
   };
 
-  const currencyOptions = ["USD", "IDR", "JPY", "BTC"];
+  const currencyOptions = ["USD", "EUR", "JPY", "GBP", "AUD", "CAD", "CHF", "CNY", "SEK", "NZD", "KRW", "SGD", "NOK", "MXN", "INR", "RUB", "ZAR", "TRY", "BRL", "HKD", "IDR", "MYR", "PHP", "DKK", "CZK", "HUF", "ILS", "PLN", "THB", "CLP", "ISK", "KRW"];
 
   return (
     <Container maxWidth="md" sx={boxStyles}>
