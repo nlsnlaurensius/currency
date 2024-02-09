@@ -116,7 +116,7 @@ function Currency() {
           Last Updated ({lastUpdated})
         </Typography>
       </Box>
-      <Link to="https://nelsonlaurensius.vercel.app/#projects">
+      <Link to="https://www.nlsnlaurensius.me/#projects">
         <Button startIcon={<HomeIcon />} className="back-to-home-button">
           Back to Projects
         </Button>
